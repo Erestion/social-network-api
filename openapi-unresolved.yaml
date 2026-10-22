@@ -1,0 +1,106 @@
+openapi: 3.0.3
+info:
+  title: Social Network API
+  description: API для керування користувачами та публікаціями соціальної мережі.
+  version: 1.0.0
+paths:
+  /users:
+    get:
+      summary: Отримати список користувачів
+      responses:
+        '200':
+          description: Успішна відповідь
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/User'
+    post:
+      summary: Створити користувача
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/UserCreate'
+      responses:
+        '201':
+          description: Користувача створено
+
+  /posts:
+    get:
+      summary: Отримати список публікацій
+      responses:
+        '200':
+          description: Успішна відповідь
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Post'
+    post:
+      summary: Створити новий пост
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PostCreate'
+      responses:
+        '201':
+          description: Пост опубліковано
+
+components:
+  schemas:
+    User:
+      type: object
+      properties:
+        id:
+          type: integer
+          example: 1
+        username:
+          type: string
+          example: "johndoe"
+        email:
+          type: string
+          example: "john@example.com"
+
+    UserCreate:
+      type: object
+      required:
+        - username
+        - email
+      properties:
+        username:
+          type: string
+        email:
+          type: string
+
+    Post:
+      type: object
+      properties:
+        id:
+          type: integer
+          example: 101
+        userId:
+          type: integer
+          example: 1
+        content:
+          type: string
+          example: "Hello world!"
+        createdAt:
+          type: string
+          format: date-time
+
+    PostCreate:
+      type: object
+      required:
+        - userId
+        - content
+      properties:
+        userId:
+          type: integer
+        content:
+          type: string
