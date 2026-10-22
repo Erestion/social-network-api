@@ -1,0 +1,7 @@
+# Example page
+
+:::tip
+
+Edit this page by opening the `example.mdx` file in the `pages/docs` directory.
+
+:::
