@@ -45,8 +45,8 @@
       "node_modules/zudoku/src/lib/util/hastToJsx.tsx"
     ]
   },
-  "_ApiHeader-A3vIsvzf.js": {
-    "file": "assets/ApiHeader-A3vIsvzf.js",
+  "_ApiHeader-CE7Pf94A.js": {
+    "file": "assets/ApiHeader-CE7Pf94A.js",
     "name": "ApiHeader",
     "imports": [
       "_Heading-D4oDNXt3.js",
@@ -57,7 +57,7 @@
       "_copy-DMQDtwbT.js",
       "_chevron-down-B6TqmFrK.js",
       "_Select-D2qotq_2.js",
-      "_openapi-DqhIUNfx.js",
+      "_openapi-CznOPohE.js",
       "_ViewportAnchorContext-CSz7lchN.js",
       "_DropdownMenu-EBVN1Foh.js",
       "_Button-D0YJgTV9.js",
@@ -180,8 +180,8 @@
       "_dist-UtbjK60W.js"
     ]
   },
-  "_DeveloperHint-DlKz1N-q.js": {
-    "file": "assets/DeveloperHint-DlKz1N-q.js",
+  "_DeveloperHint-DX7DUq4D.js": {
+    "file": "assets/DeveloperHint-DX7DUq4D.js",
     "name": "DeveloperHint",
     "imports": [
       "_rolldown-runtime-CNC7AqOf.js",
@@ -193,7 +193,7 @@
       "_jsx-runtime-DiK4U9sA.js"
     ],
     "dynamicImports": [
-      "_Markdown-DCOtY1ft.js"
+      "_Markdown-C8WfdS0N.js"
     ]
   },
   "_Dialog-CKz_NFSF.js": {
@@ -287,8 +287,8 @@
       "_Separator-B-7HAXpe.js"
     ]
   },
-  "_Markdown-DCOtY1ft.js": {
-    "file": "assets/Markdown-DCOtY1ft.js",
+  "_Markdown-C8WfdS0N.js": {
+    "file": "assets/Markdown-C8WfdS0N.js",
     "name": "Markdown",
     "imports": [
       "_rolldown-runtime-CNC7AqOf.js",
@@ -297,7 +297,7 @@
       "_jsx-runtime-DiK4U9sA.js",
       "_lib-BabpNGtX.js",
       "_lib-CE19foDD.js",
-      "_shiki-DZmfbuc-.js",
+      "_shiki-Dj_B5BMP.js",
       "_useHighlighter-BK66dtbU.js",
       "_Typography-B5tosptE.js"
     ]
@@ -313,8 +313,8 @@
       "_cn-4jUIYOBc.js"
     ]
   },
-  "_PlaygroundDialog-CECLeomY.js": {
-    "file": "assets/PlaygroundDialog-CECLeomY.js",
+  "_PlaygroundDialog-D-RHt0cR.js": {
+    "file": "assets/PlaygroundDialog-D-RHt0cR.js",
     "name": "PlaygroundDialog",
     "imports": [
       "_rolldown-runtime-CNC7AqOf.js",
@@ -345,7 +345,7 @@
       "_dist-Sf3SxwBE.js",
       "_Popover-DsdLQ5Ok.js",
       "_dist-DQGrPUfW2.js",
-      "_Markdown-DCOtY1ft.js",
+      "_Markdown-C8WfdS0N.js",
       "_dist-B2NKqqb2.js",
       "_Tooltip-D7sf5MmW.js",
       "_useCopyToClipboard-B3uS_AW_.js",
@@ -353,7 +353,7 @@
       "_Collapsible-CoAzBCHM.js",
       "_state-nMMKr-Jq.js",
       "_Card-Bpmph1wp.js",
-      "_SyntaxHighlight-DRrjsvWz.js"
+      "_SyntaxHighlight-C6D-yNB0.js"
     ]
   },
   "_Popover-DsdLQ5Ok.js": {
@@ -382,8 +382,8 @@
       "_dist-B2NKqqb2.js"
     ]
   },
-  "_SchemaView-BVYBCc44.js": {
-    "file": "assets/SchemaView-BVYBCc44.js",
+  "_SchemaView-B27v7bY-.js": {
+    "file": "assets/SchemaView-B27v7bY-.js",
     "name": "SchemaView",
     "imports": [
       "_rolldown-runtime-CNC7AqOf.js",
@@ -398,7 +398,7 @@
       "_Badge-xFBITINz.js",
       "_Button-D0YJgTV9.js",
       "_cn-4jUIYOBc.js",
-      "_Markdown-DCOtY1ft.js",
+      "_Markdown-C8WfdS0N.js",
       "_InlineCode-CRZG2XZV.js",
       "_slugify-bXvLWs_E.js",
       "_Item-DJ1W5jMM.js",
@@ -435,8 +435,8 @@
       "_cn-4jUIYOBc.js"
     ]
   },
-  "_SyntaxHighlight-DRrjsvWz.js": {
-    "file": "assets/SyntaxHighlight-DRrjsvWz.js",
+  "_SyntaxHighlight-C6D-yNB0.js": {
+    "file": "assets/SyntaxHighlight-C6D-yNB0.js",
     "name": "SyntaxHighlight",
     "imports": [
       "_rolldown-runtime-CNC7AqOf.js",
@@ -446,7 +446,7 @@
       "_copy-DMQDtwbT.js",
       "_Button-D0YJgTV9.js",
       "_cn-4jUIYOBc.js",
-      "_shiki-DZmfbuc-.js",
+      "_shiki-Dj_B5BMP.js",
       "_useHighlighter-BK66dtbU.js",
       "_CodeBlock-BL-uOsT5.js"
     ]
@@ -752,8 +752,8 @@
       "_createLucideIcon-1u2rI85o.js"
     ]
   },
-  "_openapi-DqhIUNfx.js": {
-    "file": "assets/openapi-DqhIUNfx.js",
+  "_openapi-CznOPohE.js": {
+    "file": "assets/openapi-CznOPohE.js",
     "name": "openapi",
     "imports": [
       "_rolldown-runtime-CNC7AqOf.js",
@@ -773,7 +773,7 @@
       "node_modules/zudoku/src/lib/plugins/openapi/SchemaList.tsx",
       "node_modules/zudoku/src/lib/plugins/openapi/SchemaInfo.tsx",
       "node_modules/zudoku/src/lib/plugins/openapi/McpCatalog.tsx",
-      "_PlaygroundDialog-CECLeomY.js"
+      "_PlaygroundDialog-D-RHt0cR.js"
     ]
   },
   "_preload-helper-HclGiUj8.js": {
@@ -809,8 +809,8 @@
     "file": "assets/rolldown-runtime-CNC7AqOf.js",
     "name": "rolldown-runtime"
   },
-  "_sanitizeMarkdownForMetatag-DeGTFUbD.js": {
-    "file": "assets/sanitizeMarkdownForMetatag-DeGTFUbD.js",
+  "_sanitizeMarkdownForMetatag-BC1INL93.js": {
+    "file": "assets/sanitizeMarkdownForMetatag-BC1INL93.js",
     "name": "sanitizeMarkdownForMetatag",
     "imports": [
       "_rolldown-runtime-CNC7AqOf.js",
@@ -828,7 +828,7 @@
       "_Typography-B5tosptE.js",
       "_InlineCode-CRZG2XZV.js",
       "_Card-Bpmph1wp.js",
-      "_SyntaxHighlight-DRrjsvWz.js"
+      "_SyntaxHighlight-C6D-yNB0.js"
     ]
   },
   "_schemas-BubvuIXE.js": {
@@ -851,8 +851,8 @@
       "_createLucideIcon-1u2rI85o.js"
     ]
   },
-  "_shiki-DZmfbuc-.js": {
-    "file": "assets/shiki-DZmfbuc-.js",
+  "_shiki-Dj_B5BMP.js": {
+    "file": "assets/shiki-Dj_B5BMP.js",
     "name": "shiki",
     "imports": [
       "_rolldown-runtime-CNC7AqOf.js",
@@ -950,12 +950,12 @@
       "_dist-CIY70iDv.js"
     ]
   },
-  "_useWarmupSchema-m2PCYAc9.js": {
-    "file": "assets/useWarmupSchema-m2PCYAc9.js",
+  "_useWarmupSchema-DITTROB3.js": {
+    "file": "assets/useWarmupSchema-DITTROB3.js",
     "name": "useWarmupSchema",
     "imports": [
       "_useQuery-B7YtUOLW.js",
-      "_openapi-DqhIUNfx.js"
+      "_openapi-CznOPohE.js"
     ]
   },
   "_utils-D2u0kSpI.js": {
@@ -969,10 +969,10 @@
       "_useQuery-B7YtUOLW.js"
     ]
   },
-  "node_modules/.zudoku/processed/api-openapi-unresolved.yaml.js?d=1792679039903": {
+  "node_modules/.zudoku/processed/api-openapi-unresolved.yaml.js?d=1793268080379": {
     "file": "assets/api-openapi-unresolved.yaml-DWHyRf2R.js",
     "name": "api-openapi-unresolved.yaml",
-    "src": "node_modules/.zudoku/processed/api-openapi-unresolved.yaml.js?d=1792679039903",
+    "src": "node_modules/.zudoku/processed/api-openapi-unresolved.yaml.js?d=1793268080379",
     "isDynamicEntry": true
   },
   "node_modules/@fontsource-variable/geist-mono/files/geist-mono-cyrillic-ext-wght-normal.woff2": {
@@ -1174,7 +1174,7 @@
     ]
   },
   "node_modules/zudoku/src/app/entry.client.tsx": {
-    "file": "assets/entry.client-BEYruJcI.js",
+    "file": "assets/entry.client-CCBRcIUr.js",
     "name": "entry.client",
     "src": "node_modules/zudoku/src/app/entry.client.tsx",
     "isEntry": true,
@@ -1197,7 +1197,7 @@
       "_createLucideIcon-1u2rI85o.js",
       "_chevron-down-B6TqmFrK.js",
       "_dist-DzSpbsRm.js",
-      "_openapi-DqhIUNfx.js",
+      "_openapi-CznOPohE.js",
       "_Dialog-CKz_NFSF.js",
       "_ViewportAnchorContext-CSz7lchN.js",
       "_Badge-xFBITINz.js",
@@ -1216,7 +1216,7 @@
       "_lib-BabpNGtX.js",
       "_shiki-constants-Cbz7E3qi.js",
       "_Typography-B5tosptE.js",
-      "_DeveloperHint-DlKz1N-q.js",
+      "_DeveloperHint-DX7DUq4D.js",
       "_dist-B2NKqqb2.js",
       "_react-error-boundary-50dEVHOa.js",
       "_Separator-B-7HAXpe.js",
@@ -1230,19 +1230,19 @@
       "_sidebarStore-CEeYj1H3.js"
     ],
     "dynamicImports": [
-      "node_modules/.zudoku/processed/api-openapi-unresolved.yaml.js?d=1792679039903",
+      "node_modules/.zudoku/processed/api-openapi-unresolved.yaml.js?d=1793268080379",
       "node_modules/zudoku/src/lib/plugins/markdown/MdxPage.tsx",
       "pages/introduction.mdx",
       "pages/installation.mdx",
       "pages/example.mdx",
       "pages/authorization.mdx",
       "pages/about.mdx",
-      "_SyntaxHighlight-DRrjsvWz.js",
+      "_SyntaxHighlight-C6D-yNB0.js",
       "node_modules/zudoku/src/lib/components/Mermaid.tsx",
       "node_modules/zudoku/src/lib/ui/CodeTabs.tsx",
       "node_modules/zudoku/src/lib/components/MobileTopNavigationDrawer.tsx",
       "node_modules/zudoku/src/lib/components/navigation/MobileNavigationDrawer.tsx",
-      "_shiki-DZmfbuc-.js",
+      "_shiki-Dj_B5BMP.js",
       "virtual:zudoku-shiki-register"
     ],
     "css": [
@@ -1587,12 +1587,12 @@
     ]
   },
   "node_modules/zudoku/src/lib/components/Markdown.tsx": {
-    "file": "assets/Markdown-2iB4txtp.js",
+    "file": "assets/Markdown-5vHoZnIR.js",
     "name": "Markdown",
     "src": "node_modules/zudoku/src/lib/components/Markdown.tsx",
     "isDynamicEntry": true,
     "imports": [
-      "_Markdown-DCOtY1ft.js"
+      "_Markdown-C8WfdS0N.js"
     ]
   },
   "node_modules/zudoku/src/lib/components/Mermaid.tsx": {
@@ -1670,7 +1670,7 @@
     ]
   },
   "node_modules/zudoku/src/lib/plugins/markdown/MdxPage.tsx": {
-    "file": "assets/MdxPage-Cm1XSEPD.js",
+    "file": "assets/MdxPage-CeDTt5Bj.js",
     "name": "MdxPage",
     "src": "node_modules/zudoku/src/lib/plugins/markdown/MdxPage.tsx",
     "isDynamicEntry": true,
@@ -1694,14 +1694,14 @@
       "_Popover-DsdLQ5Ok.js",
       "_lib-BabpNGtX.js",
       "_Typography-B5tosptE.js",
-      "_DeveloperHint-DlKz1N-q.js",
+      "_DeveloperHint-DX7DUq4D.js",
       "_sidebarStore-CEeYj1H3.js",
       "_AiAssistantMenuItems-Dz-kKP2l.js",
       "_slugify-bXvLWs_E.js"
     ]
   },
   "node_modules/zudoku/src/lib/plugins/openapi/McpCatalog.tsx": {
-    "file": "assets/McpCatalog-CfgG8mpZ.js",
+    "file": "assets/McpCatalog-B5Pn-8Om.js",
     "name": "McpCatalog",
     "src": "node_modules/zudoku/src/lib/plugins/openapi/McpCatalog.tsx",
     "isDynamicEntry": true,
@@ -1712,23 +1712,23 @@
       "_joinUrl-cBKii6Ct.js",
       "_lib-Cf81p4Va.js",
       "_jsx-runtime-DiK4U9sA.js",
-      "_sanitizeMarkdownForMetatag-DeGTFUbD.js",
+      "_sanitizeMarkdownForMetatag-BC1INL93.js",
       "_dist-DzSpbsRm.js",
       "_Select-D2qotq_2.js",
-      "_openapi-DqhIUNfx.js",
+      "_openapi-CznOPohE.js",
       "_Dialog-CKz_NFSF.js",
       "_Badge-xFBITINz.js",
       "_Input-B-ZNMKKc.js",
       "_Button-D0YJgTV9.js",
-      "_Markdown-DCOtY1ft.js",
+      "_Markdown-C8WfdS0N.js",
       "_InputGroup-C_aefuVw.js",
-      "_ApiHeader-A3vIsvzf.js",
+      "_ApiHeader-CE7Pf94A.js",
       "_state-nMMKr-Jq.js",
       "_Card-Bpmph1wp.js"
     ]
   },
   "node_modules/zudoku/src/lib/plugins/openapi/OasProvider.tsx": {
-    "file": "assets/OasProvider-qvCGE944.js",
+    "file": "assets/OasProvider-Cfxyv0hd.js",
     "name": "OasProvider",
     "src": "node_modules/zudoku/src/lib/plugins/openapi/OasProvider.tsx",
     "isDynamicEntry": true,
@@ -1738,11 +1738,11 @@
       "_joinUrl-cBKii6Ct.js",
       "_components-wjFQqiwe.js",
       "_jsx-runtime-DiK4U9sA.js",
-      "_openapi-DqhIUNfx.js"
+      "_openapi-CznOPohE.js"
     ]
   },
   "node_modules/zudoku/src/lib/plugins/openapi/OperationList.tsx": {
-    "file": "assets/OperationList-iDmMHLe5.js",
+    "file": "assets/OperationList-BkFnVK_o.js",
     "name": "OperationList",
     "src": "node_modules/zudoku/src/lib/plugins/openapi/OperationList.tsx",
     "isDynamicEntry": true,
@@ -1758,17 +1758,17 @@
       "_schemas-BubvuIXE.js",
       "_utils-D2u0kSpI.js",
       "_jsx-runtime-DiK4U9sA.js",
-      "_PlaygroundDialog-CECLeomY.js",
+      "_PlaygroundDialog-D-RHt0cR.js",
       "_useQuery-B7YtUOLW.js",
       "_dist-UtbjK60W.js",
       "_createLucideIcon-1u2rI85o.js",
       "_Pagination-B6JKHvGp.js",
-      "_sanitizeMarkdownForMetatag-DeGTFUbD.js",
+      "_sanitizeMarkdownForMetatag-BC1INL93.js",
       "_copy-DMQDtwbT.js",
       "_chevron-down-B6TqmFrK.js",
       "_dist-DzSpbsRm.js",
-      "_SchemaView-BVYBCc44.js",
-      "_openapi-DqhIUNfx.js",
+      "_SchemaView-B27v7bY-.js",
+      "_openapi-CznOPohE.js",
       "_Dialog-CKz_NFSF.js",
       "_ViewportAnchorContext-CSz7lchN.js",
       "_Badge-xFBITINz.js",
@@ -1781,25 +1781,25 @@
       "_useApiIdentitySelection-6VzBV5Vx.js",
       "_dist-Sf3SxwBE.js",
       "_Popover-DsdLQ5Ok.js",
-      "_Markdown-DCOtY1ft.js",
+      "_Markdown-C8WfdS0N.js",
       "_Separator-B-7HAXpe.js",
       "_Tooltip-D7sf5MmW.js",
       "_Collapsible-CoAzBCHM.js",
-      "_ApiHeader-A3vIsvzf.js",
+      "_ApiHeader-CE7Pf94A.js",
       "_state-nMMKr-Jq.js",
-      "_SyntaxHighlight-DRrjsvWz.js",
+      "_SyntaxHighlight-C6D-yNB0.js",
       "_dist-BE1gYRrZ.js",
       "_Item-DJ1W5jMM.js",
-      "_useWarmupSchema-m2PCYAc9.js"
+      "_useWarmupSchema-DITTROB3.js"
     ],
     "dynamicImports": [
-      "_Markdown-DCOtY1ft.js",
+      "_Markdown-C8WfdS0N.js",
       "node_modules/zudoku/src/lib/plugins/openapi/playground/GraphiQL.tsx",
       "_loadGraphiQLFromCdn-w_umTU_H.js"
     ]
   },
   "node_modules/zudoku/src/lib/plugins/openapi/SchemaInfo.tsx": {
-    "file": "assets/SchemaInfo-Cjj-WCQt.js",
+    "file": "assets/SchemaInfo-CV-dEYRX.js",
     "name": "SchemaInfo",
     "src": "node_modules/zudoku/src/lib/plugins/openapi/SchemaInfo.tsx",
     "isDynamicEntry": true,
@@ -1810,25 +1810,25 @@
       "_lib-Cf81p4Va.js",
       "_jsx-runtime-DiK4U9sA.js",
       "_createLucideIcon-1u2rI85o.js",
-      "_openapi-DqhIUNfx.js",
+      "_openapi-CznOPohE.js",
       "_Badge-xFBITINz.js",
       "_shield-check-DvXK0jnV.js",
       "_lock-DW1bjuuC.js",
       "_Button-D0YJgTV9.js",
       "_cn-4jUIYOBc.js",
       "_Popover-DsdLQ5Ok.js",
-      "_Markdown-DCOtY1ft.js",
+      "_Markdown-C8WfdS0N.js",
       "_Separator-B-7HAXpe.js",
       "_sidebarStore-CEeYj1H3.js",
       "_slugify-bXvLWs_E.js",
-      "_ApiHeader-A3vIsvzf.js",
+      "_ApiHeader-CE7Pf94A.js",
       "_Card-Bpmph1wp.js",
       "_Item-DJ1W5jMM.js",
-      "_useWarmupSchema-m2PCYAc9.js"
+      "_useWarmupSchema-DITTROB3.js"
     ]
   },
   "node_modules/zudoku/src/lib/plugins/openapi/SchemaList.tsx": {
-    "file": "assets/SchemaList-BtEHzQ0r.js",
+    "file": "assets/SchemaList-SjT0pcES.js",
     "name": "SchemaList",
     "src": "node_modules/zudoku/src/lib/plugins/openapi/SchemaList.tsx",
     "isDynamicEntry": true,
@@ -1837,17 +1837,17 @@
       "_joinUrl-cBKii6Ct.js",
       "_jsx-runtime-DiK4U9sA.js",
       "_dist-DzSpbsRm.js",
-      "_SchemaView-BVYBCc44.js",
-      "_openapi-DqhIUNfx.js",
+      "_SchemaView-B27v7bY-.js",
+      "_openapi-CznOPohE.js",
       "_Toc-BgSYdvzX.js",
       "_Button-D0YJgTV9.js",
       "_Collapsible-CoAzBCHM.js",
       "_slugify-bXvLWs_E.js",
-      "_ApiHeader-A3vIsvzf.js"
+      "_ApiHeader-CE7Pf94A.js"
     ]
   },
   "node_modules/zudoku/src/lib/plugins/openapi/client/createServer.ts": {
-    "file": "assets/createServer-C0M2aHxB.js",
+    "file": "assets/createServer-DkKZ_oue.js",
     "name": "createServer",
     "src": "node_modules/zudoku/src/lib/plugins/openapi/client/createServer.ts",
     "isDynamicEntry": true,
@@ -1862,7 +1862,7 @@
     ]
   },
   "node_modules/zudoku/src/lib/plugins/openapi/playground/GraphiQL.tsx": {
-    "file": "assets/GraphiQL-Df5VN9iU.js",
+    "file": "assets/GraphiQL-3mBx9vu9.js",
     "name": "GraphiQL",
     "src": "node_modules/zudoku/src/lib/plugins/openapi/playground/GraphiQL.tsx",
     "isDynamicEntry": true,
@@ -1881,33 +1881,33 @@
       "_loadGraphiQLFromCdn-w_umTU_H.js"
     ],
     "dynamicImports": [
-      "_SyntaxHighlight-DRrjsvWz.js"
+      "_SyntaxHighlight-C6D-yNB0.js"
     ],
     "css": [
       "assets/GraphiQL-D52MZXbo.css"
     ]
   },
   "node_modules/zudoku/src/lib/plugins/openapi/playground/PlaygroundDialog.tsx": {
-    "file": "assets/PlaygroundDialog-QPHSZWHH.js",
+    "file": "assets/PlaygroundDialog-BEyeKr75.js",
     "name": "PlaygroundDialog",
     "src": "node_modules/zudoku/src/lib/plugins/openapi/playground/PlaygroundDialog.tsx",
     "isDynamicEntry": true,
     "imports": [
-      "_PlaygroundDialog-CECLeomY.js"
+      "_PlaygroundDialog-D-RHt0cR.js"
     ]
   },
   "node_modules/zudoku/src/lib/shiki.ts": {
-    "file": "assets/shiki-DykWJIVl.js",
+    "file": "assets/shiki-BDcVeN7D.js",
     "name": "shiki",
     "src": "node_modules/zudoku/src/lib/shiki.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_shiki-DZmfbuc-.js",
+      "_shiki-Dj_B5BMP.js",
       "_shiki-constants-Cbz7E3qi.js"
     ]
   },
   "node_modules/zudoku/src/lib/ui/CodeTabs.tsx": {
-    "file": "assets/CodeTabs-CfoGvAN3.js",
+    "file": "assets/CodeTabs-DrfPZ3qN.js",
     "name": "CodeTabs",
     "src": "node_modules/zudoku/src/lib/ui/CodeTabs.tsx",
     "isDynamicEntry": true,
@@ -1917,20 +1917,20 @@
       "_utils-D2u0kSpI.js",
       "_jsx-runtime-DiK4U9sA.js",
       "_cn-4jUIYOBc.js",
-      "_shiki-DZmfbuc-.js",
+      "_shiki-Dj_B5BMP.js",
       "_CodeBlock-BL-uOsT5.js",
       "_CodeTabPanel-C5xyVcYF.js",
-      "_SyntaxHighlight-DRrjsvWz.js",
+      "_SyntaxHighlight-C6D-yNB0.js",
       "_dist-BE1gYRrZ.js"
     ]
   },
   "node_modules/zudoku/src/lib/ui/SyntaxHighlight.tsx": {
-    "file": "assets/SyntaxHighlight-CqvrUOnP.js",
+    "file": "assets/SyntaxHighlight-EFSjtEut.js",
     "name": "SyntaxHighlight",
     "src": "node_modules/zudoku/src/lib/ui/SyntaxHighlight.tsx",
     "isDynamicEntry": true,
     "imports": [
-      "_SyntaxHighlight-DRrjsvWz.js"
+      "_SyntaxHighlight-C6D-yNB0.js"
     ]
   },
   "node_modules/zudoku/src/lib/util/hastToJsx.tsx": {
@@ -1987,7 +1987,7 @@
     ]
   },
   "pages/introduction.mdx": {
-    "file": "assets/introduction-BCKAMT5d.js",
+    "file": "assets/introduction-nD2vyUB5.js",
     "name": "introduction",
     "src": "pages/introduction.mdx",
     "isDynamicEntry": true,
