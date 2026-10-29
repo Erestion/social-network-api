@@ -969,10 +969,10 @@
       "_useQuery-B7YtUOLW.js"
     ]
   },
-  "node_modules/.zudoku/processed/api-openapi-unresolved.yaml.js?d=1793268447157": {
+  "node_modules/.zudoku/processed/api-openapi-unresolved.yaml.js?d=1793269016437": {
     "file": "assets/api-openapi-unresolved.yaml-DWHyRf2R.js",
     "name": "api-openapi-unresolved.yaml",
-    "src": "node_modules/.zudoku/processed/api-openapi-unresolved.yaml.js?d=1793268447157",
+    "src": "node_modules/.zudoku/processed/api-openapi-unresolved.yaml.js?d=1793269016437",
     "isDynamicEntry": true
   },
   "node_modules/@fontsource-variable/geist-mono/files/geist-mono-cyrillic-ext-wght-normal.woff2": {
@@ -1174,7 +1174,7 @@
     ]
   },
   "node_modules/zudoku/src/app/entry.client.tsx": {
-    "file": "assets/entry.client-CcWkUPia.js",
+    "file": "assets/entry.client-DaqkBiG6.js",
     "name": "entry.client",
     "src": "node_modules/zudoku/src/app/entry.client.tsx",
     "isEntry": true,
@@ -1230,7 +1230,7 @@
       "_sidebarStore-CEeYj1H3.js"
     ],
     "dynamicImports": [
-      "node_modules/.zudoku/processed/api-openapi-unresolved.yaml.js?d=1793268447157",
+      "node_modules/.zudoku/processed/api-openapi-unresolved.yaml.js?d=1793269016437",
       "node_modules/zudoku/src/lib/plugins/markdown/MdxPage.tsx",
       "pages/introduction.mdx",
       "pages/installation.mdx",
