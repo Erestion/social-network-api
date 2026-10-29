@@ -1,7 +1,6 @@
 import type { ZudokuConfig } from "zudoku";
 
 const config: ZudokuConfig = {
-  basePath: "/social-network-api",
   navigation: [
     {
       type: "category",
@@ -19,6 +18,7 @@ const config: ZudokuConfig = {
       label: "API Reference" 
     },
   ],
+  basePath: "/social-network-api",
   redirects: [
     { from: "/", to: "/introduction" },
   ],

@@ -6,9 +6,9 @@
   "scripts": {
     "dev": "zudoku dev",
     "build": "zudoku build",
+    "deploy": "gh-pages -d dist/social-network-api -t",
     "preview": "zudoku preview",
-    "lint": "eslint",
-	"deploy": "gh-pages -d dist"
+    "lint": "eslint"
   },
   "dependencies": {
     "react": ">=19.2.0",
